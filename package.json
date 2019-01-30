@@ -30,5 +30,8 @@
     "react-meteor-data": "^0.2.10",
     "react-recaptcha": "^2.3.5",
     "simpl-schema": "^0.3.2"
+  },
+  "devDependencies": {
+    "meteor": "^0.0.2"
   }
 }
