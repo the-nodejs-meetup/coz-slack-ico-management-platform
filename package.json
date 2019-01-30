@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "heroku-postbuild": "curl https://install.meteor.com/ | sh",
-    "start": "meteor run"
+    "start": "$HOME/.meteor/meteor run"
   },
   "dependencies": {
     "@devexpress/dx-react-core": "^1.0.0-alpha.11",
