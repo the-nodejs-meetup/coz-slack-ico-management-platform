@@ -2,7 +2,7 @@
   "name": "coz-slack-ico-management-platform",
   "private": true,
   "scripts": {
-    "preinstall": "curl https://install.meteor.com/ | sh",
+    "heroku-postbuild": "curl https://install.meteor.com/ | sh",
     "start": "meteor run"
   },
   "dependencies": {
